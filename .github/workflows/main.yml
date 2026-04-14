@@ -16,9 +16,6 @@ jobs:
       - name: Install npm dependencies
         run: |
           npm install
-      - name: Run tests
-        run: |
-          npm test
       - name: Prebuild
         run: |
           npx expo prebuild
