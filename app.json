@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "march8new",
+    "name": "8 БЕРЕЗНЯ",
     "slug": "march8new",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/image.png",
     "scheme": "march8new",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
