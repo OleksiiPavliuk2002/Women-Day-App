@@ -2,4 +2,4 @@
 
 The project looks like:
 
-<img src="./8march.gif" alt="march8" width="200" height = "400" />
+<img src="./march8.gif" alt="march8" width="200" height = "400" />
